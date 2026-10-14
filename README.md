@@ -53,15 +53,6 @@ These rules are included for this training project. The chatbot should not claim
 6. Compare the outputs with the examples in `conversations_portfolio.md`.
 7. Refer to `chatbot_documentation.md` for the system design and flow diagram.
 
-**Note:** This repository documents a prompt-engineering workflow. It does not by itself deploy a live chatbot, connect to FlexTime systems, verify real billing data, or automatically issue refunds.
-
-## Project Presentation
-
-- **Project name:** AI Customer Support Assistant
-- **Presenter:** [Your Name]
-- **Loom presentation:** [Paste your Loom video URL here]
-
-Replace `[Your Name]` with your name and paste your shareable Loom recording URL before submitting the project.
 
 ## Repository Setup
 
@@ -77,5 +68,5 @@ No terminal commands or software installation are required to read these files o
 
 ## Author
 
-**[Your Name]**  
+[Sree Harshini S] 
 Prompt Engineering Hands-On Project
